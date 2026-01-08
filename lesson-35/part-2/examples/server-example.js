@@ -13,7 +13,7 @@
  */
 
 // Note: This is a demonstration file. 
-// Uncomment and install express to run: npm install express
+// Uncomment the code below and run: npm install
 
 /*
 const express = require('express');
@@ -116,5 +116,7 @@ app.listen(PORT, () => {
 });
 */
 
-console.log('Server example - Uncomment the code and install express to run this example');
-console.log('Run: npm install express');
+console.log('Server example - To run this example:');
+console.log('1. Run: npm install (to install dependencies from package.json)');
+console.log('2. Uncomment the code in this file');
+console.log('3. Run: node examples/server-example.js');
