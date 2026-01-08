@@ -1,0 +1,26 @@
+{
+  "name": "server-programming-lesson-35-part-2",
+  "version": "1.0.0",
+  "description": "Lesson 35 Part 2: Advanced Server Programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node examples/server-example.js"
+  },
+  "keywords": [
+    "server",
+    "programming",
+    "middleware",
+    "express",
+    "nodejs"
+  ],
+  "author": "Server Programming Course",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
